@@ -1,0 +1,2 @@
+# blogs
+Curious One Blogs
